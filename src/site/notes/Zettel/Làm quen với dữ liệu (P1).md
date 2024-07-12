@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/zettel/lam-quen-voi-du-lieu-p1/"}
 ---
 
+
 # I. Khái niệm dữ liệu
 
 Cho tập dữ liệu khảo sát siêu anh hùng (gọi tắt là SH) dưới đây:

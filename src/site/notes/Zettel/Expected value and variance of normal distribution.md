@@ -1,9 +1,8 @@
 ---
-source: "[[Study/Math knowledge\|Math knowledge]]"
-id: 202404251854
-date_create: 2024-04-25
-dg-publish: true
+{"dg-publish":true,"permalink":"/zettel/expected-value-and-variance-of-normal-distribution/"}
 ---
+
+
 >[!success]+ Nhắc lại
 >Kì vọng của phân phối chuẩn:
 >$$

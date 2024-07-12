@@ -1,9 +1,8 @@
 ---
-source: "[[Study/ML Bishop\|ML Bishop]]"
-id: 202404191019
-date_create: 2024-04-19
-dg-publish: true
+{"dg-publish":true,"permalink":"/zettel/probability-densities/"}
 ---
+
+
 >[!example]+
 >Giả sử mình đang xét biến ngẫu nhiên liên tục $X$ với $X$ đại diện cho chiều cao của công dân Việt Nam. Như thông thường, mình sẽ tìm xác suất $p(X = x)$ với $x$ là một số thực, nhưng ai lại quan tâm xác suất để chiều cao là $1.8072003 \hspace{3pt} (m)$ chứ 🥲. Vậy nên khi nói đến biến ngẫu nhiên liên tục, ta sẽ quan tâm xác suất để $X$ nằm trong một khoảng hơn, ví dụ xác suất để một công dân Việt Nam có chiều cao từ $1$ mét $6$ đến $1$ mét $9$, tức là $p(1.6 \leq X \leq 1.9)$. 
 

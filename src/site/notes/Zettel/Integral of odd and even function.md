@@ -1,9 +1,8 @@
 ---
-source: "[[Study/Math knowledge\|Math knowledge]]"
-id: 202404252229
-date_create: 2024-04-25
-dg-publish: true
+{"dg-publish":true,"permalink":"/zettel/integral-of-odd-and-even-function/"}
 ---
+
+
 Đặt $f$ là một hàm số lẻ và $g$ là một hàm số chẵn (giả sử $f$ và $g$ đều liên tục trên đoạn $[-a, a]$). Khi đó:
 $$
 \begin{align*}

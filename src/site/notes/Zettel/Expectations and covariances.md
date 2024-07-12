@@ -1,9 +1,8 @@
 ---
-source: "[[Study/ML Bishop\|ML Bishop]]"
-id: 202404191021
-date_create: 2024-04-19
-dg-publish: true
+{"dg-publish":true,"permalink":"/zettel/expectations-and-covariances/"}
 ---
+
+
 Kì vọng (expectation) là một trong nhất concept quan trọng nhất của xác suất. Giá trị trung bình của một hàm biến ngẫu nhiên $f(X)$ nào đó với $X$ có phân phối xác suất $p(x)$ được gọi là **kì vọng** của $f(X)$ và được kí hiệu là $\mathbb{E}[f]$ (ngoài ra ta cũng có thể viết $\mathbb{E}[f(X)]$).
 - Nếu $x$ là một biến ngẫu nhiên rời rạc thì:
 $$

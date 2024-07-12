@@ -1,9 +1,8 @@
 ---
-source: "[[Study/ML Bishop\|ML Bishop]]"
-id: 202404230759
-date_create: 2024-04-23
-dg-publish: true
+{"dg-publish":true,"permalink":"/zettel/curve-fitting-revisited/"}
 ---
+
+
 Ở phần [[Zettel/Polynomial Curve Fitting\|Polynomial Curve Fitting]], ta đã biết cách để xấp xỉ một hàm đa thức $f(x, \mathbf{w}) = \sum_{n=0}^M x^n w_{n}$ bằng cách tối thiểu hàm mất mát
 $$
 E(\mathbf{w}) = \frac{1}{2} \sum_{n=1}^N [f(x_{n}, \mathbf{w}) - y_{n}]^2

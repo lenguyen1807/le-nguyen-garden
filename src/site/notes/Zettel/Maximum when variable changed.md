@@ -1,9 +1,8 @@
 ---
-source: "[[Study/Math knowledge\|Math knowledge]]"
-id: 202404261047
-date_create: 2024-04-26
-dg-publish: true
+{"dg-publish":true,"permalink":"/zettel/maximum-when-variable-changed/"}
 ---
+
+
 >[!note]+
 >Cái này mình lấy từ [Bishop] vì nó quá hay 🥰.
 

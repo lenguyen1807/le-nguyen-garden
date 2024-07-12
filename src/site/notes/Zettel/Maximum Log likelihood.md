@@ -1,9 +1,8 @@
 ---
-source: "[[Study/Math knowledge\|Math knowledge]]"
-id: 202404251638
-date_create: 2024-04-25
-dg-publish: true
+{"dg-publish":true,"permalink":"/zettel/maximum-log-likelihood/"}
 ---
+
+
 Ta có:
 $$
 \begin{aligned}

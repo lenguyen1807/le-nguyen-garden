@@ -17,8 +17,8 @@
 
 | Book📕                            | Start_Date⏰    |
 | --------------------------------- | -------------- |
-| [[Study/ML Bishop\|ML Bishop]] | April 15, 2024 |
 | [[Study/DL Bishop\|DL Bishop]] | \-             |
+| [[Study/ML Bishop\|ML Bishop]] | April 15, 2024 |
 
 { .block-language-dataview}
 

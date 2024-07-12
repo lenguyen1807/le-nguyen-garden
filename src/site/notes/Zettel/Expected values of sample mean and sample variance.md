@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/zettel/expected-values-of-sample-mean-and-sample-variance/"}
 ---
 
+
 Xét 1 mẫu $\mathcal{D}$ gồm $N$ quan sát ${} x_{1}, \dots, x_{N} {}$ và $\mathcal{D} \overset{i.i.d}{\sim} \mathcal{N}(\mu, \sigma^2)$. Đặt $\mu_{ML}$ là trung bình mẫu và $\sigma^2_{ML}$ là phương sai mẫu.
 
 >[!note]+

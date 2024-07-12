@@ -1,9 +1,8 @@
 ---
-source: "[[Study/Math knowledge\|Math knowledge]]"
-id: 202403031037
-date_create: 2024-03-03
-dg-publish: true
+{"dg-publish":true,"permalink":"/zettel/equivalence-relation/"}
 ---
+
+
 Cho $A$ và $B$ là hai tập hợp. Một **quan hệ** $R$ từ $A$ đến $B$ là một tập hợp con của $A \times B$. Nếu $R$ là một quan hệ từ $A$ đến $A$ thì ta nói $R$ là một quan hệ **trên** $A$.
 
 >[!example]+

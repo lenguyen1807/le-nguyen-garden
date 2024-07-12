@@ -1,9 +1,7 @@
 ---
-source: "[[Study/Math knowledge\|Math knowledge]]"
-id: 202404252257
-date_create: 2024-04-25
-dg-publish: true
+{"dg-publish":true,"permalink":"/zettel/differentiating-under-integral/"}
 ---
+
 
 ---
 # References

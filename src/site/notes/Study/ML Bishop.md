@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/study/ml-bishop/","tags":["book"]}
 ---
 
+
 >[!danger]+ Lưu ý
 >Đây là note theo ý mình, thế nên có thể sai, các bạn nên sử dụng với mục đích tham khảo thêm. Cảm ơn các bạn đã đọc 🥰.
 

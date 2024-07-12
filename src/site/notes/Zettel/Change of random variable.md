@@ -1,9 +1,8 @@
 ---
-source: "[[Study/Math knowledge\|Math knowledge]]"
-id: 202404251541
-date_create: 2024-04-25
-dg-publish: true
+{"dg-publish":true,"permalink":"/zettel/change-of-random-variable/"}
 ---
+
+
 Xét hai biến ngẫu nhiên $X$ và $Y$ với $X = g(Y)$. Đặt $F_{X}$ là cdf của $X$ và $F_{Y}$ là cdf của $Y$. Tương tự, ta đặt $f_{X}$ là mật độ xác suất của $X$ và $f_{Y}$ là mật độ xác suất của $Y$.
 
 >[!danger]+ Lưu ý

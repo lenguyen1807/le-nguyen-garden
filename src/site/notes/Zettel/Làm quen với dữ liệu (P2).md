@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/zettel/lam-quen-voi-du-lieu-p2/"}
 ---
 
+
 # III. Phép đo độ tương đồng và khác biệt của dữ liệu (TT)
 
 ## 8. Jaccard Similarity

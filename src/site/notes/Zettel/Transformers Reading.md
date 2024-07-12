@@ -1,6 +1,8 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/zettel/transformers-reading/"}
 ---
+
+
 >[!danger]+
 >Shamelessly ăn cắp từ thread [[D] Resources for Understanding The Original Transformer Paper : r/MachineLearning (reddit.com)](https://www.reddit.com/r/MachineLearning/comments/pkedi4/d_resources_for_understanding_the_original/).
 
@@ -61,5 +63,5 @@ Try reading the paper again now; it will, hopefully, make a lot more sense.
 >
 >**Another comment**:
 >Knowledge about [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory) is nessesary and learn about [RNN](https://arxiv.org/abs/1308.0850).
+{ #b40c48}
 
-^b40c48

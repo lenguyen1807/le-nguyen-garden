@@ -1,9 +1,8 @@
 ---
-source: "[[Study/Math knowledge\|Math knowledge]]"
-id: 202404251721
-date_create: 2024-04-25
-dg-publish: true
+{"dg-publish":true,"permalink":"/zettel/poisson-distribution-and-stirling-approximation/"}
 ---
+
+
 Xét phân phối $X$ như dưới đây:
 $$
 P(X = r \mid \lambda) = e^{-\lambda} \dfrac{\lambda^r}{r!} \hspace{5pt} \text{với $r \in \{0, 1, 2, \dots\}$}.

@@ -1,9 +1,8 @@
 ---
-source: "[[Study/ML Bishop\|ML Bishop]]"
-id: 202404252334
-date_create: 2024-04-25
-dg-publish: true
+{"dg-publish":true,"permalink":"/zettel/exercises-part-i-tt/"}
 ---
+
+
 >[!example]+ Giải bài 1.9
 >
 >![Pasted image 20240426102814.png](/img/user/Attachment/Pasted%20image%2020240426102814.png)

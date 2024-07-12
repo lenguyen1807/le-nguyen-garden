@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/zettel/polynomial-curve-fitting/"}
 ---
 
+
 Giả sử bạn LN có số tiền là $x \in \mathbb{R}$ và LN muốn dự đoán xem với số tiền $x$ này, LN có thể mua được bao nhiêu cái bánh xèo, bởi vì bà bán bánh xèo bả không muốn tiết lộ giá 1 cái bánh xèo và giá có thể mỗi ngày thay đổi (nhưng bánh xèo ngon).
 
 Gọi số bánh xèo mua được là $y \in \mathbb{R}$ (trong thực tế số bánh sẽ là số nguyên, nhưng mà mình giả sử bà bán bánh có khả năng nào đó bán được số bánh xèo là số thực).
