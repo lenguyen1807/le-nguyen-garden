@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettel/expectations-and-covariances/"}
+{"dg-publish":true,"permalink":"/zettel/expectations-and-covariances/","noteIcon":"📝","created":"2024-06-30T19:11:48.446+07:00","updated":"2024-07-12T08:42:17.329+07:00"}
 ---
 
 

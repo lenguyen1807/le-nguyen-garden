@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettel/exercises-part-i/"}
+{"dg-publish":true,"permalink":"/zettel/exercises-part-i/","noteIcon":"📝","created":"2024-06-30T19:11:48.445+07:00","updated":"2024-07-12T08:42:13.959+07:00"}
 ---
 
 

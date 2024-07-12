@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettel/mode-of-normal-distribution/"}
+{"dg-publish":true,"permalink":"/zettel/mode-of-normal-distribution/","noteIcon":"📝","created":"2024-06-30T19:11:48.454+07:00","updated":"2024-07-12T08:42:39.028+07:00"}
 ---
 
 

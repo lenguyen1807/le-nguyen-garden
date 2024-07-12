@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettel/bayesian-probabilities/"}
+{"dg-publish":true,"permalink":"/zettel/bayesian-probabilities/","noteIcon":"📝","created":"2024-06-30T19:11:48.440+07:00","updated":"2024-07-12T08:26:56.139+07:00"}
 ---
 
 

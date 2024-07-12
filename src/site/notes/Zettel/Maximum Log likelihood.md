@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettel/maximum-log-likelihood/"}
+{"dg-publish":true,"permalink":"/zettel/maximum-log-likelihood/","noteIcon":"📝","created":"2024-06-30T19:11:48.452+07:00","updated":"2024-07-12T08:42:35.533+07:00"}
 ---
 
 

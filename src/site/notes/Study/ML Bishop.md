@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/study/ml-bishop/","tags":["book"]}
+{"dg-publish":true,"permalink":"/study/ml-bishop/","tags":["book"],"noteIcon":"📝","created":"2024-06-30T19:11:48.431+07:00","updated":"2024-07-12T08:36:53.439+07:00"}
 ---
 
 

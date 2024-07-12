@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettel/polynomial-curve-fitting/"}
+{"dg-publish":true,"permalink":"/zettel/polynomial-curve-fitting/","noteIcon":"📝","created":"2024-06-30T19:11:48.455+07:00","updated":"2024-07-12T08:36:58.268+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettel/gaussian-distribution/"}
+{"dg-publish":true,"permalink":"/zettel/gaussian-distribution/","noteIcon":"📝","created":"2024-06-30T19:11:48.446+07:00","updated":"2024-07-12T08:42:26.317+07:00"}
 ---
 
 

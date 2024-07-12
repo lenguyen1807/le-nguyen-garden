@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettel/lam-quen-voi-du-lieu-p1/"}
+{"dg-publish":true,"permalink":"/zettel/lam-quen-voi-du-lieu-p1/","noteIcon":"📝","created":"2024-06-30T19:11:48.451+07:00","updated":"2024-07-12T08:42:32.197+07:00"}
 ---
 
 

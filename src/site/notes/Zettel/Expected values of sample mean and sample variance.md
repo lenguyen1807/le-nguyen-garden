@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettel/expected-values-of-sample-mean-and-sample-variance/"}
+{"dg-publish":true,"permalink":"/zettel/expected-values-of-sample-mean-and-sample-variance/","noteIcon":"📝","created":"2024-06-30T19:11:48.446+07:00","updated":"2024-07-12T08:42:20.376+07:00"}
 ---
 
 

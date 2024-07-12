@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettel/poisson-distribution-and-stirling-approximation/"}
+{"dg-publish":true,"permalink":"/zettel/poisson-distribution-and-stirling-approximation/","noteIcon":"📝","created":"2024-06-30T19:11:48.454+07:00","updated":"2024-07-12T08:42:41.479+07:00"}
 ---
 
 

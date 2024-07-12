@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettel/change-of-random-variable/"}
+{"dg-publish":true,"permalink":"/zettel/change-of-random-variable/","noteIcon":"📝","created":"2024-06-30T19:11:48.440+07:00","updated":"2024-07-12T08:41:56.829+07:00"}
 ---
 
 

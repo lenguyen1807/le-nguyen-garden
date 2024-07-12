@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettel/probability-densities/"}
+{"dg-publish":true,"permalink":"/zettel/probability-densities/","noteIcon":"📝","created":"2024-06-30T19:11:48.456+07:00","updated":"2024-07-12T08:42:45.936+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettel/introduction-prob/"}
+{"dg-publish":true,"permalink":"/zettel/introduction-prob/","noteIcon":"📝","created":"2024-06-30T19:11:48.451+07:00","updated":"2024-07-12T08:29:04.957+07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"📝","created":"2024-06-30T19:11:48.405+07:00","updated":"2024-07-12T08:41:46.598+07:00"}
 ---
 
 ---
@@ -17,8 +17,8 @@
 
 | Book📕                            | Start_Date⏰    |
 | --------------------------------- | -------------- |
-| [[Study/DL Bishop\|DL Bishop]] | \-             |
 | [[Study/ML Bishop\|ML Bishop]] | April 15, 2024 |
+| [[Study/DL Bishop\|DL Bishop]] | \-             |
 
 { .block-language-dataview}
 
