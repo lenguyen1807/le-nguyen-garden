@@ -1,8 +1,7 @@
 ---
-tags:
-  - self-study
-dg-publish: true
+{"dg-publish":true,"permalink":"/study/math-knowledge/","tags":["self-study"],"noteIcon":"📝","created":"2024-08-02T10:46:38.324+07:00","updated":"2024-08-02T10:58:08.273+07:00"}
 ---
+
 ## Calculus
 
 - [[Polar Coordinates\|Polar Coordinates]]

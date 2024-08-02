@@ -1,10 +1,7 @@
 ---
-tags:
-  - book
-start_time: 2024-04-15
-end_time: 
-dg-publish: true
+{"dg-publish":true,"permalink":"/study/ml-bishop/","tags":["book"],"noteIcon":"📝","created":"2024-08-02T10:46:38.323+07:00","updated":"2024-08-02T10:57:17.368+07:00"}
 ---
+
 
 >[!danger]+ Lưu ý
 >Đây là note theo ý mình, thế nên có thể sai, các bạn nên sử dụng với mục đích tham khảo thêm. Cảm ơn các bạn đã đọc 🥰.
