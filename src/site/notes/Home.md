@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"📝","created":"2024-06-30T19:11:48.405+07:00","updated":"2024-07-12T08:41:46.598+07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"📝","created":"2024-08-02T10:46:38.320+07:00","updated":"2024-08-02T10:49:00.428+07:00"}
 ---
 
 ---
@@ -17,8 +17,8 @@
 
 | Book📕                            | Start_Date⏰    |
 | --------------------------------- | -------------- |
+| [[Study/DL Bishop\|DL Bishop]] | July 20, 2024  |
 | [[Study/ML Bishop\|ML Bishop]] | April 15, 2024 |
-| [[Study/DL Bishop\|DL Bishop]] | \-             |
 
 { .block-language-dataview}
 
@@ -26,10 +26,9 @@
 | ------- |
 
 { .block-language-dataview}
-## Blog
 
-- [[Life/Movies\|Movies]]
-- [[Zettel/Làm quen với dữ liệu (P1)\|Làm quen với dữ liệu (P1)]]
-- [[Zettel/Làm quen với dữ liệu (P2)\|Làm quen với dữ liệu (P2)]]
-- [[Zettel/Transformers Reading\|Transformers Reading]]
-- [[Study/Math knowledge\|Math knowledge]]
+| Courses📚                                       | Start_Date⏰   |
+| ----------------------------------------------- | ------------- |
+| [[Study/Professional C++\|Professional C++]] | July 15, 2024 |
+
+{ .block-language-dataview}

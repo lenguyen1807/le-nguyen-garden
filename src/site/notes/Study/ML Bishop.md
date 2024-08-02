@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/study/ml-bishop/","tags":["book"],"noteIcon":"📝","created":"2024-06-30T19:11:48.431+07:00","updated":"2024-07-12T08:36:53.439+07:00"}
+tags:
+  - book
+start_time: 2024-04-15
+end_time: 
+dg-publish: true
 ---
-
 
 >[!danger]+ Lưu ý
 >Đây là note theo ý mình, thế nên có thể sai, các bạn nên sử dụng với mục đích tham khảo thêm. Cảm ơn các bạn đã đọc 🥰.
@@ -20,20 +23,20 @@
 
 ## Introduction
 
-- [[Zettel/Polynomial Curve Fitting\|Polynomial Curve Fitting]]
+- [[Notes/Polynomial Curve Fitting\|Polynomial Curve Fitting]]
 - Probability Theory
-	- [[Zettel/Introduction (Prob)\|Introduction (Prob)]]
-	- [[Zettel/Probability Densities\|Probability Densities]]
-	- [[Zettel/Expectations and covariances\|Expectations and covariances]]
-	- [[Zettel/Bayesian Probabilities\|Bayesian Probabilities]]
-	- [[Zettel/Gaussian Distribution\|Gaussian Distribution]]
-	- [[Zettel/Curve Fitting Revisited\|Curve Fitting Revisited]]
-	- [[Zettel/Bayesian Curve Fitting\|Bayesian Curve Fitting]]
+	- [[Notes/Introduction (Prob)\|Introduction (Prob)]]
+	- [[Notes/Probability Densities\|Probability Densities]]
+	- [[Notes/Expectations and covariances\|Expectations and covariances]]
+	- [[Notes/Bayesian Probabilities\|Bayesian Probabilities]]
+	- [[Notes/Gaussian Distribution\|Gaussian Distribution]]
+	- [[Notes/Curve Fitting Revisited\|Curve Fitting Revisited]]
+	- [[Notes/Bayesian Curve Fitting\|Bayesian Curve Fitting]]
 - [[Model Selection\|Model Selection]]
 - [[The Curse of Dimensionality\|The Curse of Dimensionality]]
 - Decision Theory
 - Information Theory
-- [[Zettel/Exercises Part I\|Exercises Part I]]
-- [[Zettel/Exercises Part I (TT)\|Exercises Part I (TT)]]
+- [[Notes/Exercises Part I\|Exercises Part I]]
+- [[Notes/Exercises Part I (TT)\|Exercises Part I (TT)]]
 
 ## Probability Distributions
