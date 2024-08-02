@@ -1,9 +1,7 @@
 ---
-source: "[[Study/ML Bishop\|ML Bishop]]"
-id: 202404221219
-date_create: 2024-04-22
-dg-publish: true
+{"dg-publish":true,"permalink":"/notes/bayesian-probabilities/","noteIcon":"📝","created":"2024-08-02T10:46:38.334+07:00","updated":"2024-08-02T10:54:53.636+07:00"}
 ---
+
 
 Định lý Bayes cũng có thể áp dụng trong Machine Leanring như sau. Giả sử rằng ta có tập dữ liệu $\mathcal{D}$ và một model có bộ tham số là $\mathbf{w}$. Mục đích của ta là với tập dữ liệu $\mathcal{D}$ như này, bộ tham số $\mathbf{w}$ của ta như nào mới là tốt, tức là tìm xác suất $p(\mathbf{w} \mid \mathcal{D})$.
 
